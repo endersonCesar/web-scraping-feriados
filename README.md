@@ -1,10 +1,10 @@
-# Web Scraping de Feriados do Amapá
+# Web Scraping de Feriados 
 
-Este repositório contém um script em Python para realizar web scraping no site [Feriados.com.br](https://www.feriados.com.br/feriados-amapa-ap.php), com o objetivo de coletar todos os feriados do estado do Amapá. O script utiliza as bibliotecas `requests`, `BeautifulSoup`, e `selenium`, além de outras dependências.
+Este repositório contém um script em Python para realizar web scraping no site [Feriados.com.br](https://www.feriados.com.br/feriados-amapa-ap.php), com o objetivo de coletar todos os feriados do estado . O script utiliza as bibliotecas `requests`, `BeautifulSoup`, e `selenium`, além de outras dependências.
 
 ## Funcionalidades
 
-- **Coleta de feriados:** Extrai informações sobre todos os feriados do estado do Amapá listados no site.
+- **Coleta de feriados:** Extrai informações sobre todos os feriados do estado  listados no site.
 - **Manipulação dinâmica:** Usa Selenium para lidar com elementos dinâmicos na página, se necessário.
 - **Armazenamento de dados:** Os feriados coletados são armazenados em um arquivo JSON para uso posterior.
 
